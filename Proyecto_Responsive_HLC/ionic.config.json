@@ -1,0 +1,7 @@
+{
+  "name": "Proyecto_Responsive_HLC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
